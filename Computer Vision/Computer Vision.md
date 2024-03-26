@@ -11,8 +11,6 @@ Funciona de forma similar a las capas convolucionales. Se pasa un kernel sobre l
 
 # Necesidad de capas de ReLU
 
-
-
 # Arquitecturas CNNs
 
 ## LeNet-5
@@ -37,8 +35,6 @@ Características
 |Convolucional|120|1x1|5x5|1|tanh|
 |Fully connected|84|-|-|-|tanh|
 |Fully connected|10|-|-|-|RBF|
-
-
 
 ## AlexNet
 
@@ -80,7 +76,6 @@ Puedes pensar al inception module como una capa convolucional potenciada, capaz 
 
 **Arquitectura de GoogleNet**
 PENDIENTE A IMAGEN
-
 
 ## VGGNet
 
